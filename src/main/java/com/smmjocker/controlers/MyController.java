@@ -63,7 +63,7 @@ public class MyController {
     public String pundyk(Model model) {
 
 
-        FBInviter fbInviter = new FBInviter("smm.jocker@gmail.com", "BeHapp2014", null, null, "pundyk.com.ua");
+        
 
 
         fbInviter.init();
@@ -93,7 +93,7 @@ public class MyController {
     public String sribnyk(Model model) {
 
 
-        FBInviter fbInviter = new FBInviter("oleg.kovalik@gmail.com", "BeHapp2014", null, null, "sribnyk");
+        
 
 
         fbInviter.init();
